@@ -26,5 +26,5 @@ def post_user():
                 return jsonify(result), 201
 
     except DontIncludedDataError as err:
-        return err.message
+        return err.message, 400
      

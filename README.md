@@ -1,9 +1,9 @@
 # Flask + Exceções
 
+Praticando criação de exceções e seus usos na criação de rotas
 
-| Critérios | Pts. |
+| Rotas| |
 |---|---|
-| [GET] Rota /user. Retorno da rota seguindo os exemplos dados. | 4  |
-| [POST] Rota /user. Retorno da rota seguindo os exemplos dados. | 4 |
-| Organização de diretórios como pedido no enunciado | 1  |
-| Arquivos **requirements.txt**, **.env**, **.env.example** e **.gitignore** (**venv** e **.env** adicionados) | 1 |
+| [GET] Rota /user. Retorno da rota seguindo os exemplos dados. |  |
+| [POST] Rota /user. Retorno da rota seguindo os exemplos dados. | |
+| Organização de diretórios como pedido no enunciado |  |
